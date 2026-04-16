@@ -1,0 +1,4 @@
+framework module HYAdKit {
+  header "HYAdKit-Swift.h"
+  requires objc
+}
